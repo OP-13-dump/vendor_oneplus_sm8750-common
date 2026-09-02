@@ -734,6 +734,7 @@ PRODUCT_PACKAGES += \
     odm_lib_rfsa_adsp_nlc_bgth_v1_5_so \
     com.google.android.widevine.nonupdatable \
     TimeService \
+    Melody \
     HotwordEnrollmentXGoogleHEXAGON_WIDEBAND \
     HotwordEnrollmentYGoogleHEXAGON_WIDEBAND \
     QCC \
